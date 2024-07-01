@@ -46,3 +46,7 @@ At our company, which specializes in student loan refinancing, predicting borrow
 Ensure that your Jupyter Notebook includes detailed sections for each part of the project, demonstrating all steps from data preparation to predictions and discussions on the recommendation system.
 
 **Push all changes and updates regularly to your GitHub repository to track version history and collaborate effectively.**
+
+## Acknowledgments
+
+I would like to express my gratitude to OpenAI's ChatGPT for its invaluable assistance during the course of this project. The conversational AI provided essential insights and support in data analysis, problem-solving, and the generation of content, which significantly contributed to the success of this endeavor.
