@@ -1,11 +1,9 @@
 # README: Neural Network Challenge - Student Loan Repayment Prediction
 
+**Code repository**: [https://github.com/ehxewri/neural-network-challenge-1](https://github.com/ehxewri/neural-network-challenge-1)
+
 ## Background
 At our company, which specializes in student loan refinancing, predicting borrower repayment capabilities is vital for setting accurate interest rates. This project focuses on developing a neural network model capable of predicting the likelihood of student loan repayments based on borrower data.
-
-## Project Files
-- **Module 18 Challenge files**: [Download here](https://www.example.com/download)
-- **student_loans_with_deep_learning.ipynb**: Starter file to be used in Google Colab
 
 ## Initial Setup
 1. **Repository Setup**: Create a new GitHub repository named `neural-network-challenge-1`.
@@ -20,11 +18,11 @@ At our company, which specializes in student loan refinancing, predicting borrow
 - **Data Reading**: Load the dataset from [student-loans.csv](https://static.bc-edx.com/ai/ail-v-1-0/m18/lms/datasets/student-loans.csv) into a Pandas DataFrame. Identify potential features and target variables.
 - **Dataset Creation**: Separate the data into features (X) and target (y) datasets. Use the `credit_ranking` column as the target.
 - **Data Splitting**: Divide the datasets into training and testing sets.
-- **Data Scaling**: Utilize scikit-learn’s StandardScaler to scale the feature data.
+- **Data Scaling**: Utilize scikit-learn’s `StandardScaler` to scale the feature data.
 
 ### Part 2: Model Development and Evaluation
 - **Neural Network Design**: Construct a deep neural network using TensorFlow's Keras. Tailor the model architecture based on the number of input features.
-- **Model Compilation and Training**: Compile the model with binary_crossentropy loss function, adam optimizer, and accuracy metric. Fit the model on training data.
+- **Model Compilation and Training**: Compile the model with the `binary_crossentropy` loss function, `adam` optimizer, and `accuracy` metric. Fit the model on training data.
 - **Model Evaluation**: Assess the model with testing data to determine its loss and accuracy.
 - **Model Saving**: Save and export the model as `student_loans.keras`.
 
@@ -48,5 +46,4 @@ Ensure that your Jupyter Notebook includes detailed sections for each part of th
 **Push all changes and updates regularly to your GitHub repository to track version history and collaborate effectively.**
 
 ## Acknowledgments
-
 I would like to express my gratitude to OpenAI's ChatGPT for its invaluable assistance during the course of this project. The conversational AI provided essential insights and support in data analysis, problem-solving, and the generation of content, which significantly contributed to the success of this endeavor.
