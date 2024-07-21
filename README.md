@@ -2,6 +2,8 @@
 
 **Code repository**: [https://github.com/ehxewri/neural-network-challenge-1](https://github.com/ehxewri/neural-network-challenge-1)
 
+
+
 ## Background
 At our company, which specializes in student loan refinancing, predicting borrower repayment capabilities is vital for setting accurate interest rates. This project focuses on developing a neural network model capable of predicting the likelihood of student loan repayments based on borrower data.
 
